@@ -1,0 +1,15 @@
+ body{
+    background-color: bisque;
+}
+
+
+img{
+border-radius: 15px;
+border: solid purple;
+width: 50%;
+}
+
+.eldi{
+    margin-top: 12%;
+    margin-left: 30%;
+} 
